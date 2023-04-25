@@ -136,8 +136,8 @@ const devConfig = {
     hot: true,
     historyApiFallback: true,
     proxy: {
-      '/api': `http://localhost:44353`,
-      '/files': `http://localhost:44353`,
+      '/api': `http://localhost:44343`,
+      '/files': `http://localhost:44343`,
     },
   },
 };
